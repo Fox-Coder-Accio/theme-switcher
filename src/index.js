@@ -6,7 +6,7 @@ import StyleProvider from "./context/StyleProvider";
 
 ReactDOM.render(
 <StyleProvider>
- <App/>
+   <App/>
 </StyleProvider>
 
 ,document.getElementById("root"))
